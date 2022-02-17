@@ -10,6 +10,15 @@ publish binaries.
 In the meantime, if you've stumbled accross this, please have
 fun and feel free to jump in!
 
+The format of the map is defined at:
+
+https://github.com/HHRy/strategy_game_backend/blob/main/doc/file_formats/map/v1.md
+
+And an example map file is available at:
+
+https://github.com/HHRy/strategy_game_backend/blob/main/examples/all_passable.rtsmap
+
+
 ## Contributing
 Bug reports and pull requests are welcome on GitHub at https://github.com/HHRy/strategy_engine_map_editor. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the code of conduct.
 
